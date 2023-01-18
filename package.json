@@ -1,0 +1,19 @@
+{
+  "name": "paytm_mall",
+  "version": "1.0.0",
+  "description": "Clone of Paytm Mall developed by Akash Chauhan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baltao1/Paytm_Mall.git"
+  },
+  "author": "Akash Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baltao1/Paytm_Mall/issues"
+  },
+  "homepage": "https://github.com/baltao1/Paytm_Mall#readme"
+}
